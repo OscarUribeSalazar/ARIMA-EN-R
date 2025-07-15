@@ -102,11 +102,9 @@ Predecir el comportamiento futuro del precio de cierre ajustado de las acciones 
 ```plaintext
 📦 ARIMA-AMZN
  ┣ 📜 README.md
- ┣ 📂 data
- ┃ ┗ amzn_prices.csv
  ┣ 📂 scripts
  ┃ ┗ arima_model_amazon.R
- ┣ 📂 output
+ ┣ 📂 videos
  ┗ 📽️ Predicción del Precio de las Acciones de Amazon (AMZN) Utilizando Modelos ARIMA en R.mpe4
  ┗ 📽️ (PARTE FINAL) Predicción del Precio de las Acciones de Amazon (AMZN) Utilizando Modelos ARIMA en R.mp4
 
